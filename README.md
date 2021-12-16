@@ -2,7 +2,7 @@
 
 ## Installation
 
-Déplacer le dossier du thème dans le dossier wp-content -> thème Acitiver le thème dans l'interface d'administration Wordpress
+Déplacer le dossier du thème dans le dossier wp-content -> thème Activer le thème dans l'interface d'administration Wordpress
 
 
 ## Les pages
